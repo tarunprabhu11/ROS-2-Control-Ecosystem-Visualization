@@ -1,0 +1,1 @@
+from rqt_node_graph.node_graph_plugin import NodeGraphPlugin

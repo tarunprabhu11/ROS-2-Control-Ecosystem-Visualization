@@ -1,0 +1,15 @@
+<library path="src">
+  <class name="NodeGraphPlugin" type="rqt_node_graph.node_graph_plugin.NodeGraphPlugin" base_class_type="rqt_gui_py::Plugin">
+    <description>
+      A plugin to visualize node connections in a directed graph
+    </description>
+    <qtgui>
+      <group>
+        <label>Visualization</label>
+      </group>
+      <label>Node Graph</label>
+      <icon type="theme">applications-graphics</icon>
+      <statustip>Visualize node connections and data flow</statustip>
+    </qtgui>
+  </class>
+</library>
