@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project demonstrates a sophisticated ROS2 (Robot Operating System 2) node communication system with a custom visualization plugin. The system showcases inter-node communication, service interactions, and real-time graph visualization.
+This project demonstrates a ROS2 node communication system with a custom visualization plugin. The system showcases inter-node communication, service interactions, and real-time graph visualization.
 
 ## Project Structure
 
