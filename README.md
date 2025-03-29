@@ -138,8 +138,15 @@ The `node_graph_plugin.py` offers a comprehensive visualization:
    ```
 
    ## Screenshot
+
+
+    ![Screenshot 2025-03-29 143413](https://github.com/user-attachments/assets/48a532d6-640c-4895-ad2e-1b8f411c3882)
+
+
+
+    ![Screenshot from 2025-03-29 14-35-17](https://github.com/user-attachments/assets/92679acc-6a05-498b-83db-19199c59d3e0)
    
-   ![Screenshot from 2025-03-29 14-35-17](https://github.com/user-attachments/assets/92679acc-6a05-498b-83db-19199c59d3e0)
+
 
 
 
