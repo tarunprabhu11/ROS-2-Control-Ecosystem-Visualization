@@ -136,5 +136,10 @@ The `node_graph_plugin.py` offers a comprehensive visualization:
    ```bash
    ros2 run rqt_node_graph rqt_node_graph
    ```
+
+   ## Screenshot
    
+   ![Screenshot from 2025-03-29 14-35-17](https://github.com/user-attachments/assets/92679acc-6a05-498b-83db-19199c59d3e0)
+
+
 
